@@ -4,6 +4,7 @@ Get the alpha wave control LED working on my OpenBCI v3.
 
 Basically took chip's OpenBCI_8bits_HexBug here.
 https://github.com/biomurph/OpenBCI_8bit_HexBug/tree/master/OpenBCI_8bit_HexBug
+
 Get Processing for Hexbug here.
 https://github.com/chipaudette/OpenBCI/tree/variant_hexBugControl_teamAlpha/Processing_GUI/OpenBCI_GUI
 

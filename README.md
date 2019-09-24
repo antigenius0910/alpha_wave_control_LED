@@ -12,11 +12,15 @@ Check Library Hexbug.h and function issueCommand
 
 from 
 
+```
 digitalWrite(pins[command_pin_ind],LOW);  
+```
 
 change it to  
 
+```
 digitalWrite(pins[command_pin_ind],HIGH);
+```
 
 Then it will then trigger HIGH when alpha wave is being detected.
 I am only using A1(GND) and A3(left command = channel 2)
